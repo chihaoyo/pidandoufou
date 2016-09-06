@@ -7,7 +7,7 @@ html, body, iframe {
 #logo {
   position: absolute;
   bottom: 4px;
-  left: 4px;
-  width: 240px; }
+  right: 4px;
+  width: 200px; }
 
 /*# sourceMappingURL=styles.css.map */
